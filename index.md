@@ -7,8 +7,8 @@ permalink: /
 notification: Hello there
 sections:
   - hero:
-      title: This is hero subtitle!
-      subtitle: Hero subtitle
+      title: "Hero Title "
+      subtitle: This is hero subtitle!
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
