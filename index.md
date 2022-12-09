@@ -7,7 +7,7 @@ permalink: /
 notification: Hello there
 sections:
   - hero:
-      title: Hero title
+      title: This is hero subtitle!
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       url: /contact-us/
@@ -24,4 +24,9 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
