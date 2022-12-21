@@ -3,7 +3,9 @@ title: Principal's Message
 permalink: /our-story/Principal-Message/
 description: ""
 ---
-### Principal's Message
+ <Center>
+	
+ ## Principal's Message
 
 Welcome <img src="/images/Principal%20message%20V2-min.jpg" style= "width: 70%; margin-left:15px;" align = "right"> 
   to the Yio Chu Kang Secondary School website. To students and staff new to the school, welcome to the YCKSS Family!   
