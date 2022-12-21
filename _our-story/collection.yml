@@ -1,5 +1,4 @@
 collections:
   our-story:
     output: true
-    order:
-      - content.md
+    order: []
