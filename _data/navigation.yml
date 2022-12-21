@@ -8,3 +8,5 @@ links:
     collection: hello
   - title: Content
     url: /content/
+  - title: Our Story
+    collection: our-story
