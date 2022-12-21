@@ -7,3 +7,5 @@ Home-based learning (HBL) is an important extension of our students’ learning.
   
 Using the Active Learning Framework, our teachers design both Asynchronous and Synchronous lessons that are engaging for students and allow them to continue interacting with teachers and peers. We leverage on the Student Learning Space (SLS) as a main platform for our e-learning and complement it with various other web-based tools affordances to ensure that learning objectives are met.  We employ quizzes with social learning elements to evaluate students learning in an interesting manner, host video conferencing for virtual classes and design interactive activities where students can construct knowledge with their peers.
 <br>[](/images/pix7.png)
+
+<img src="/images/pix7.png" style= "width: 100%; margin-right:20px;" align = "left">
