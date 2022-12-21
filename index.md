@@ -7,9 +7,8 @@ permalink: /
 notification: Hello there
 sections:
   - hero:
-      title: "Hero Title "
-      subtitle: This is hero subtitle!
-      background: /images/hero-banner.png
+      title: " "
+      background: /images/YCK.jpg
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -18,6 +17,9 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
