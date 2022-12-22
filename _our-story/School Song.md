@@ -42,7 +42,7 @@ Mr Michael William Cartwright & Ms Lio Dan Wei
 	
 	
 	
-	<right>	About the School Song </right>
+	About the School Song  
 
 
 In 2018, Music teachers, Miss Dan Wei Lio and Mr Michael Cartwright began work on composing the music and writing the lyrics to a new song to represent the newly merged school. The song was officially launched during the 2019 Speech and Prize Giving Day.
