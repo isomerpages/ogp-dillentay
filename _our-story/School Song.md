@@ -11,7 +11,7 @@ description: ""
 	
 
 
-Our School is Yio Chu Kang.
+<b>Our School is Yio Chu Kang.
 
 Together we learn and grow.
 
@@ -20,7 +20,7 @@ Pursuit of knowledge, service to all,
 With gratitude and character, we show.
 
 Wholeheartedly, our Home.
-<br>
+	<br>
 	
 Through our hopes and dreams,
 
@@ -32,7 +32,7 @@ And strive for excellence.
 
 Wholeheartedly, our School.
 
-Wholeheartedly, our Home.
+Wholeheartedly, our Home. <b>
 	
 	Musics & Lyrics by:
 
