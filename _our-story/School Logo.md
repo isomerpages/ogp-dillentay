@@ -4,7 +4,7 @@ permalink: /our-story/schoollogo/
 description: ""
 ---
 # <center>School Logo
-<img style="width:75%" src="/images/School-Logo.png">
+<img style="width:25%" src="/images/YCKSS-School-Logo.png">
 
 The symmetry of the logo symbolises the **balance of a holistic education for all**. It features three orange shapes that resemble the bloom of petals. Collectively, they represent the school’s desire to **nurture students who flourish as Competent Learners, Confident Leaders and Caring Innovators**.  
   
