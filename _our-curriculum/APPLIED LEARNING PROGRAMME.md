@@ -19,3 +19,13 @@ In this programme, students are introduced to the world of Science, Technology, 
   
 
 • To encourage students to stay curious and learn how technology can be applied in new ways to improve the quality of life around us.
+<br>
+<br>
+**The ALP Curriculum**  
+
+  
+
+This is a structured programme  **during curriculum hours.** It is structured to develop digital literacies of **Computational Thinking**, **Creation**, and **Communication & Collaboration**
+
+
+![](/images/YCK%20.png).
