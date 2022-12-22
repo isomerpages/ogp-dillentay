@@ -8,17 +8,14 @@ description: ""
 
 
 
-<center> <b>Vision<b>
-<br>
- <br>
+<center> <b>Vision<b><br>
+ 
 
 A COMMUNITY OF LEARNERS, LEADERS AND INNOVATORS
 
   
 
-<b>Mission<b>
-
-  <br>
+<b>Mission<b><br>
 
 Nurturing students of character who thrive through love of learning, 
 
@@ -26,16 +23,13 @@ and a willingness to grow and lead in meaningful service to self and others
 
   
 
-<center><b>Motto<b>
-
-  <br>
+<center><b>Motto<b><br>
 
 Pursuit of Knowledge, Service to All
 
   
 
-<b>Values<b>
-<br>
+<b>Values<b><br>
 	
 GROWTH<center>
 	
