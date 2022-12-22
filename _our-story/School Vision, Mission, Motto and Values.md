@@ -36,6 +36,7 @@ Pursuit of Knowledge, Service to All
 
 <b>Values<b>
 <br>
+	
 GROWTH<center>
 	
 Gratitude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty
