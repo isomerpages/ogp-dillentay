@@ -12,29 +12,29 @@ description: ""
 
 
 <b>Our School is Yio Chu Kang.
-
+<br>
 Together we learn and grow.
-
+<br>
 Pursuit of knowledge, service to all,
-
+<br>
 With gratitude and character, we show.
-
+<br>
 Wholeheartedly, our Home.
-	<br>
-	
+<br>
+<br>
 Through our hopes and dreams,
-
+<br>
 We see the best in all.
-
+<br>
 With heart and soul, we lead
-
+<br>
 And strive for excellence.
-
+<br>
 Wholeheartedly, our School.
-
+<br>
 Wholeheartedly, our Home. <b>
 	
-	Musics & Lyrics by:
+Musics & Lyrics by:
 
 Mr Michael William Cartwright & Ms Lio Dan Wei
 	
