@@ -36,12 +36,8 @@ Pursuit of Knowledge, Service to All
 
 <b>Values<b>
 
-  
-
-GROWTH
-
+GROWTH<center>
+	
 Gratitude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty
 	
 ![](/images/SS%20YCK.png)
-	
-	
