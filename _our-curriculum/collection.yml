@@ -2,5 +2,5 @@ collections:
   our-curriculum:
     output: true
     order:
-      - APPLIED LEARNING PROGRAMME.md
       - Distinctive Programmes.md
+      - APPLIED LEARNING PROGRAMME.md
