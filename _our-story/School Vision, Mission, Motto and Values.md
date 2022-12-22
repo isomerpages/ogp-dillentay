@@ -40,4 +40,4 @@ GROWTH<center>
 	
 Gratitude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty
 	
-![](/images/SS%20YCK.png)
+<img style="width:%" src="/images/SS%20YCK.png">
