@@ -3,7 +3,7 @@ title: APPLIED LEARNING PROGRAMME
 permalink: /our-curriculum/APPLIEDLEARNINGPROGRAMME/
 description: ""
 ---
-<center>Applied Learning Programme</center>
+<center> Applied Learning Programme </center>
 
 
 
