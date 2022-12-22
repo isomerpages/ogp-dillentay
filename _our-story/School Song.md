@@ -11,28 +11,28 @@ description: ""
 	
 
 
-**Our School is Yio Chu Kang.**
+Our School is Yio Chu Kang.
 
-**Together we learn and grow.**
+Together we learn and grow.
 
-**Pursuit of knowledge, service to all,**
+Pursuit of knowledge, service to all,
 
-**With gratitude and character, we show.**
+With gratitude and character, we show.
 
-**Wholeheartedly, our Home.**
+Wholeheartedly, our Home.
 <br>
 	
-**Through our hopes and dreams,**
+Through our hopes and dreams,
 
-**We see the best in all.**
+We see the best in all.
 
-**With heart and soul, we lead**
+With heart and soul, we lead
 
-**And strive for excellence.**
+And strive for excellence.
 
-**Wholeheartedly, our School.**
+Wholeheartedly, our School.
 
-**Wholeheartedly, our Home**.
+Wholeheartedly, our Home.
 	
 	Musics & Lyrics by:
 
