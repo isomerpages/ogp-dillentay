@@ -20,15 +20,4 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
