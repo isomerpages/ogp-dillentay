@@ -3,8 +3,7 @@ title: School Vision, Mission, Motto and Values
 permalink: /our-story/SchoolVisionMissionMottoandValues/
 description: ""
 ---
-### <center> School Vision, Mission, Motto and Values </center>
-
+#### <center> School Vision, Mission, Motto and Values </center>
 
 
 
@@ -42,3 +41,7 @@ Pursuit of Knowledge, Service to All
 GROWTH
 
 Gratitude, Respect, Optimism, Wholeheartedness, Teamwork, Honesty
+	
+![](/images/SS%20YCK.png)
+	
+	
