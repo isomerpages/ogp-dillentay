@@ -4,7 +4,7 @@ permalink: /our-story/schooltheme/
 description: ""
 ---
 # <center> School Theme
-(/images/YCKSS%20THING.png)
+<img style="width:80%" src="/images/YCKSS%20THING.png">
 	
 Empathy is the highest form of emotional maturity. It is the ability to understand thoughts and feelings of other people in a given situation, from their point of view, rather than our own. This is not the same as sympathy, which is when one is moved by the feelings and thoughts of another person and yet remains emotional distanced. Empathy does not occur naturally for many people. In fact it is natural that we tend to judge first from our set of values and biases. However, like most skills, empathy can be learnt. With practice, empathy can become a natural character strength.
 
