@@ -2,6 +2,6 @@ collections:
   our-story:
     output: true
     order:
-      - School Logo.md
       - Principal's Message.md
+      - School Logo.md
       - School Vision, Mission, Motto and Values.md
