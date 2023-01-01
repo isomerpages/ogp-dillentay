@@ -2,6 +2,7 @@ collections:
   test-test-test:
     output: true
     order:
+      - privacy.md
       - faq.md
       - example-page.md
       - content.md
