@@ -2,4 +2,5 @@ collections:
   test-test-test:
     output: true
     order:
+      - example-page.md
       - content.md
